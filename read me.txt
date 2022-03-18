@@ -1,0 +1,2 @@
+open Currency Test Casses/1. Upright front-back Single/
+choose Untitled.m and run it
